@@ -1,4 +1,4 @@
 # hello-world
-new start 
+new start.
 hello, everybody.
 This is a nice try.
